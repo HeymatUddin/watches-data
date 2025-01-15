@@ -1,5 +1,5 @@
 [
-    {"id": 1, "name": "Submariner", "price": 8500.99, "madeBy": "Rolex", "madeIn": "Switzerland", "PublishedOn": "2022-03-15"},
+    {"id": 1, "name": "Submariner", "price": 8600.99, "madeBy": "Rolex", "madeIn": "Switzerland", "PublishedOn": "2022-03-15"},
     {"id": 2, "name": "Presage", "price": 495.00, "madeBy": "Seiko", "madeIn": "Japan", "PublishedOn": "2021-11-05"},
     {"id": 3, "name": "G-Shock GA2100", "price": 99.00, "madeBy": "Casio", "madeIn": "Japan", "PublishedOn": "2019-07-15"},
     {"id": 4, "name": "Speedmaster Moonwatch", "price": 7200.00, "madeBy": "Omega", "madeIn": "Switzerland", "PublishedOn": "2023-01-10"},
